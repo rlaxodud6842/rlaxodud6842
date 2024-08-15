@@ -4,4 +4,8 @@
 
 [대구대 타이거즈 성적 조회 사이트](https://tg.mydu.duckdns.org/)
 
+[일정 조정 달력 사이트 "언제만날래?"](https://wwe.mydu.duckdns.org/)
+
 [대구대 위키 DUWIKI ](https://duwiki.100won.duckdns.org/index.php/%EB%8C%80%EB%AC%B8)
+
+
